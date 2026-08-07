@@ -1,6 +1,0 @@
-allowBuilds:
-  '@google/genai': true
-  msw: true
-  protobufjs: true
-minimumReleaseAgeExclude:
-  - '@google/genai@2.16.0'
